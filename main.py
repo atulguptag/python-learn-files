@@ -91,7 +91,7 @@ print(max_num(300,34,3))'''
 
 #BUILDING A BETTER CALCULATOR
 
-num1 = float(input("Enter a first number: "))
+'''num1 = float(input("Enter a first number: "))
 op = input("Enter a opeartor: ")
 num2 = float(input("Enter a second number: "))
 
@@ -109,10 +109,37 @@ elif op == "*":
 
 else :
     print("Invalid operator")
+'''
 
+#DICTIONARIES
 
+monthConversions = {
+    "Jan": "January",
+    "Feb": "February",
+    "Mar": "March",
+    "Apr": "April",
+    "May": "May",
+    "Jun": "June",
+    "Jul": "July",
+    "Aug": "August",
+    "Sept": "September",
+    "Oct": "October",
+    "Nov": "November",
+    "Dec": "December"
+}
 
+'''print(monthConversions["Feb"])'''
+print(monthConversions.get("Oct"))
 
+#WHILE LOOP
+
+i = 1
+
+while i<= 20:
+    print(i)
+    i += 1
+
+print("Done with loop")
 
 
 
