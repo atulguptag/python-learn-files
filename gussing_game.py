@@ -1,6 +1,6 @@
 print("Note: You have only 3 chance to choose the correct guess")
 
-secreat_word = "harmonioum"
+secreat_word = "angrybird"
 guess = ""
 guess_count = 0
 guess_limit = 3
@@ -19,6 +19,8 @@ if out_of_guesses :
     print("Out_of_guesses, YOU LOSE THE GAME !")
 else:
     print("You Win! ")
+
+print("Hello ! Atul Gupta")
 
 
 

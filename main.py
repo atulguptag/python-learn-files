@@ -133,20 +133,10 @@ monthConversions = {
     "Dec": "December"
 }
 
-print(monthConversions["Feb"])'''
-print(monthConversions.get("Oct"))
+print(monthConversions["Feb"])
+print(monthConversions.get("Oct"))'''
 
-#WHILE LOOP
 
-'''i = 1
-
-while i<= 20:
-    print(i)
-    i += 1
-
-print("Done with loop")
-
-'''
 
 
 
