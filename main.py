@@ -108,10 +108,15 @@ elif op == "*":
     print(num1 * num2)
 
 else :
+<<<<<<< HEAD
     print("Invalid operator")
-'''
 
-#DICTIONARIES
+
+    print("Invalid operator") 
+
+
+
+>>>>>>> 50430873ce3085e9f3767cf2f5ef08b5af01cd8d
 
 monthConversions = {
     "Jan": "January",
@@ -128,7 +133,7 @@ monthConversions = {
     "Dec": "December"
 }
 
-'''print(monthConversions["Feb"])'''
+print(monthConversions["Feb"])'''
 print(monthConversions.get("Oct"))
 
 #WHILE LOOP
