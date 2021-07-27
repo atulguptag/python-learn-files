@@ -133,7 +133,7 @@ print(monthConversions.get("Oct"))
 
 #WHILE LOOP
 
-i = 1
+'''i = 1
 
 while i<= 20:
     print(i)
@@ -141,7 +141,7 @@ while i<= 20:
 
 print("Done with loop")
 
-
+'''
 
 
 
