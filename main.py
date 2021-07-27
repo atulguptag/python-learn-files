@@ -91,7 +91,7 @@ print(max_num(300,34,3))'''
 
 #BUILDING A BETTER CALCULATOR
 
-num1 = float(input("Enter a first number: "))
+'''num1 = float(input("Enter a first number: "))
 op = input("Enter a opeartor: ")
 num2 = float(input("Enter a second number: "))
 
@@ -108,7 +108,10 @@ elif op == "*":
     print(num1 * num2)
 
 else :
-    print("Invalid operator")
+    print("Invalid operator") '''
+
+
+
 
 
 
