@@ -20,7 +20,7 @@ if out_of_guesses :
 else:
     print("You Win! ")
 
-print("Hello ! Atul Gupta")
+
 
 
 
